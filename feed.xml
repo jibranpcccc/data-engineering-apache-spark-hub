@@ -4,10 +4,17 @@
     <title>Data Engineering &amp; Apache Spark Hub</title>
     <link>https://data-engineering-apache-spark-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:05:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:05:27 GMT</lastBuildDate>
     <atom:link href="https://data-engineering-apache-spark-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/data-engineering-apache-spark-hub/#data-engineering-apache-spark-hub-forum-20261011-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:05:27 GMT</pubDate>
+      <description>Newly verified community added to Data Engineering &amp; Apache Spark Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-engineering-apache-spark-hub/#data-engineering-apache-spark-hub-forum-20261011-1-2026-10-11</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-engineering-apache-spark-hub/#data-engineering-apache-spark-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 14:05:13 GMT</pubDate>
       <description>Newly verified community added to Data Engineering &amp; Apache Spark Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/technology World News (Reddit)</title>
-      <link>https://www.reddit.com/r/technology/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/data-engineering-apache-spark-hub/#data-engineering-apache-spark-hub-reddit-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 08:32:20 GMT</pubDate>
-      <description>Newly verified community added to Data Engineering &amp; Apache Spark Hub: A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.</description>
     </item>
   </channel>
 </rss>
