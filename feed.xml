@@ -4,10 +4,17 @@
     <title>Data Engineering &amp; Apache Spark Hub</title>
     <link>https://data-engineering-apache-spark-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 06:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:05:20 GMT</lastBuildDate>
     <atom:link href="https://data-engineering-apache-spark-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                        <item>
+                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/data-engineering-apache-spark-hub/#data-engineering-apache-spark-hub-forum-20261011-1-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:05:20 GMT</pubDate>
+      <description>Newly verified community added to Data Engineering &amp; Apache Spark Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-engineering-apache-spark-hub/#data-engineering-apache-spark-hub-forum-20261011-1-2026-10-21</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/data-engineering-apache-spark-hub/#data-engineering-apache-spark-hub-discord-20260922-1-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 06:04:58 GMT</pubDate>
       <description>Newly verified community added to Data Engineering &amp; Apache Spark Hub: Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/rust Systems Programming (Reddit)</title>
-      <link>https://www.reddit.com/r/rust/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/data-engineering-apache-spark-hub/#data-engineering-apache-spark-hub-reddit-20260921-1-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 06:04:56 GMT</pubDate>
-      <description>Newly verified community added to Data Engineering &amp; Apache Spark Hub: Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.</description>
     </item>
   </channel>
 </rss>
